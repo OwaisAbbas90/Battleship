@@ -1642,11 +1642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\BlazorApp5.csproj",
+      "projectUniqueName": "C:\\Users\\owais\\Desktop\\Battleship\\BlazorApp5.csproj",
       "projectName": "BlazorApp5",
-      "projectPath": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\BlazorApp5.csproj",
+      "projectPath": "C:\\Users\\owais\\Desktop\\Battleship\\BlazorApp5.csproj",
       "packagesPath": "C:\\Users\\owais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\",
+      "outputPath": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owais\\AppData\\Roaming\\NuGet\\NuGet.Config",
