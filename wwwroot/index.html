@@ -39,32 +39,24 @@
         }
     </script>
     <script>
-        window.Modal = (colour) => {
+        window.Modal = (choice) => {
+
             jQuery.noConflict();
             jQuery('#myModal').modal('show');
-            jQuery('#modal-backdrop').addClass("modal-backdrop-" + colour);
-            jQuery('.btn-close, .modal').on("click", function (e) {
-                jQuery('#modal-backdrop').removeClass('modal-backdrop-' + colour);
-            });
+            jQuery('#modal-backdrop').addClass("modal-backdrop-red");
 
-        }
-    </script>
-    <script>
-        window.VictoryModal = (colour) => {
-           
-            jQuery.noConflict();
-            jQuery('#victoryModal').modal('show');
-            jQuery('#modal-backdrop').addClass("modal-backdrop-" + colour);
-            jQuery('#vicBefore').addClass("before");
-            jQuery('#vicAfter').addClass("after");
-            jQuery('#modal-backdrop').addClass("pyro");
-            jQuery('.btn-close, .modal').on("click", function (e) {
-            jQuery('#modal-backdrop').removeClass('modal-backdrop-' + colour);
-            jQuery('#vicBefore').removeClass("before");
-            jQuery('#vicAfter').removeClass("after");
-            jQuery('#modal-backdrop').removeClass('pyro');
-            });
-
+            if (choice == "1") {                
+                jQuery('.btn-close, .modal').on("click", function (e) {
+                    jQuery('#modal-backdrop').removeClass('modal-backdrop-red');
+                });
+            }
+            else if (choice == "2") {                
+                jQuery('#modal-backdrop').addClass("pyro");
+                jQuery('.btn-close, .modal').on("click", function (e) {
+                    jQuery('#modal-backdrop').removeClass('modal-backdrop-red');
+                    jQuery('#modal-backdrop').removeClass('pyro');
+                });
+            }
         }
     </script>
 </head>

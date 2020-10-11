@@ -1,128 +1,128 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RXsmQIl3CeikIZucxW0JW3Bk7lP51zF5udttNCVwz40=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazorApp5.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xCG14zNNA-J5gknfDYTZ2H1OzszEglfZj9BFSz75mR4=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazorApp5.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorApp5.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\izo_UbHncRFXxoZn16fB0Q8WOgBZ5v6tuYjKZkFRTLc=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YNK8c_eSuzr_4khfPxgb9b7TWen3wBuv9S3bTlOHGrw=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\iByCJ2YQxNydUOEDgpGKyStBLAZw3YhDrY1E6bw5S5Q=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ry3pd-vkf4ZJdzH3GI56VuIW6dcSMpE1zcG9mSZIWlA=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IGZHW2ZhJ5aZ60QIXoJfzLvpND9E1pyt8c7tbzVVTAM=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\djZc3K4KK5nZ1wMo4rj8vgXVdggrr16bCr6uhnfCLGI=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\O7hDdMGWvSn53GdgG-3kADw7B-ey3bk4hCUUP_4gnNc=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\r48_G1fV8-Ic-i-ZHTFGGkOqqJNGHwiWveLLxmvEhLQ=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4tnw1jLaNnHwNcOWsH-L3cUL-t4yJVMpmsQqtTlvto4=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\D_M75vua2omZ1bu7PS7o4OteWEqo5rhqkG7Nm141oFg=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YFgkcnd9NgpRcDaVrbwopvPp7ypW8z8DjphdWMRNqxw=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xSj-F_u0UIqs1LOw1sFj6lNxwKP8aFhHElrWPYqvWQg=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4RsrRmD86tLoe8mB1oippAm17zqlc7Td5M60LVeD-z4=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\AZtK6L6ksMCMXYPkOj6A35WnrrFK5oRVhtXL7bn1xlM=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\FqnZDYTwA6SnNGVZzGI28jwGR-lKOsZ7EVx63JK6kUE=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dsSHsisHQLZe0hYXby6966yD2rBX819YJQ9WIGjnSIk=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\k8AvNtA7BAwbkROkf9kndkqaZ2muZnDmcs-eQi6xP1E=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3L1v0ZE3_b0-18KDkX8xQ5Hob-o-YKgwGl3NJMcW398=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-BhatrSg_xOv9av7V0OMDpY9O6bzirQDrUc5WIZx3RI=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\O9iup3mUxP1nSE4PA0E-Y8vLg1wSY0HdYJU0GmvzfJM=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\p0A6HbpRf7HC7KQgHVxszKJ08jBJgWPJ2zf4XgPYmBU=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nzIIJiqOLFNy6ew_NbYGgzobwVMEVWqFTzZsspdi5sc=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PG2jG-3u1LywnqvIrU5Y7Evmq9tOsqqn6IMhFAnmAo8=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Pls8aP8JSG185ceTxdfwsSU31O9u7plALC98oAyPFSE=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hGG0QRj5UjY6o-R2lFVpEIO1BcV4cpAmtAsXg9rMph4=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4XG2XocYCvoP-nJmz-1B6g0LN2cVE06Yun5qXS8qIog=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Hb_b2cPuAAYTHeR0OfBLFZKtaZv1WCoCd6bYCoagNbw=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\JYJ0WKNWKjf8197i1PyP0pL9eSPtF_6L90KZDo-G9MQ=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8M1vo9Y6kJgr5vPVGWFj8T0xVFLfFlAfGFNBXSTLrM4=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-UzO3-7xI4nes9Rk6xne0gR0nr0vpJSJCXdbP-pGLeU=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yJWnX0wHDbnhYak4K8zKi0FEtZMeRoQzomTgtkclYi4=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\0hteRPA3iEVJwpqBZBTcmnif_eaHalWKbpeSq55Zlzk=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HgL11IimkeimXqIhIuuuV4ijBxaP38KsCDNx8WPA1E0=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yan4l8XU6UHB9LQTfPf4NqG6oCrdlOK9pZmky2yPtIE=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\MQx5mW0-7YSOgF7NKNxBmKLxx7K5OfD-2euaR_jzGEQ=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yLSAPPx6Rsb8BA3XNPAdqSRFNqkag9ybzSMF9yj4_gs=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4xcWbozc_H3ibUEdMOa9bwTnbQJgu2JJiNIr0LsNUAE=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\arErUHdRifWbk8WonPTY6Nb7YxLPm45KI9WzhGPL7Ss=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tQkw_-I0wHQ1kXH9Or_JqphkBX_vX8fnEI4NOEbXsSg=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\f9n7Aj9q4ZMP7rnR8LlFH70CuoDg4tH-jv0b8orHUJ8=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NRzjsYohG9LBcCO6hAL0aoUgSAvdj4zXE82eZy2uVsY=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\azEhhynUIR3G0P2XVF2to1xuWcyTAYOt-RnVujg2VMQ=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
     },
     {
@@ -146,8 +146,8 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IZ_4v5h3Vr1GKQo_AAVErnOSMOEEgMyEd5NMHk9T-PE=.hash",
-      "Source": "C:\\Users\\owais\\OneDrive\\Projects\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\032s1UQiMqbGyRvR_StBEM7kau7P9xbhg65cdScTAQs=.hash",
+      "Source": "C:\\Users\\owais\\Desktop\\Battleship\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
   ]

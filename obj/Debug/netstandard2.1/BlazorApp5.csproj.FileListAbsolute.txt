@@ -1589,7 +1589,6 @@ C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\Razor\_Imports.razor.
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\BlazorApp5.RazorTargetAssemblyInfo.cache
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\BlazorApp5.csproj.CopyComplete
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\qwa-g4AmAh_Qng9uEpHEc7bxjt9Adg8iOsi16xSHnf8=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -1640,13 +1639,11 @@ C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfS
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\voqf57Ja57jMIibrBQwbVIF5zOi9r1JBlBGcnJTouAI=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\oH65NtnUn86VJmTVGn75pxp_-MXrPxa__mVkY_3O0jU=.hash
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorApp5.dll.gz
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -1765,3 +1762,6 @@ C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\staticwebassets\Blazo
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\staticwebassets\BlazorApp5.StaticWebAssets.xml
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\BlazorApp5.dll
 C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\BlazorApp5.pdb
+C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\rrblDd39yFmmBZzB5RNO4jI0Iwi9Q06ffaAEAZYlP6I=.hash
+C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\VcZvnZXLVjP9jps75CtbaCWn7cxlLTXcOSX__BgG1MM=.hash
+C:\Users\owais\Desktop\Battleship\obj\Debug\netstandard2.1\integrity\WhzLWqqQRqHxkoKhTAP-ek-9sFgcVIFyiPTPdovkYpc=.hash

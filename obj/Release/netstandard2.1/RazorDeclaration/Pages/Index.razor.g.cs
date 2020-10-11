@@ -13,63 +13,63 @@ namespace BlazorApp5.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 1 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 2 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 3 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 4 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 5 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 6 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 7 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 8 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using BlazorApp5;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\owais\OneDrive\Projects\Battleship\_Imports.razor"
+#line 9 "C:\Users\owais\Desktop\Battleship\_Imports.razor"
 using BlazorApp5.Shared;
 
 #line default
@@ -84,14 +84,13 @@ using BlazorApp5.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 154 "C:\Users\owais\OneDrive\Projects\Battleship\Pages\Index.razor"
+#line 129 "C:\Users\owais\Desktop\Battleship\Pages\Index.razor"
        
     private int currentCount = 0;
-    private string active ="hidden";
-    private string active1 = "hidden", active2 = "hidden", active3 = "hidden";
+    private string active = "hidden", active1 = "hidden", active2 = "hidden", active3 = "hidden";
     private string disabled = "";
     private string sunkMessage = "";
-    private string gameStatus = "";
+    //private string gameStatus = "";
     private int r1, r2;
     Random r = new Random();
 
@@ -366,9 +365,7 @@ using BlazorApp5.Shared;
                 {
                     active1 = "hidden";
                     sunkMessage = "HMS Queen Elizabeth has been destroyed";
-                    await JSRuntime.InvokeVoidAsync("Modal", "red");
-
-
+                    await JSRuntime.InvokeVoidAsync("Modal", "1");
                 }
             }
             else if (ship2.Contains(id))
@@ -377,9 +374,9 @@ using BlazorApp5.Shared;
                 ship2.RemoveAt(removeFromindividual);
                 if (!ship2.Any())
                 {
-                    active2 ="hidden";
+                    active2 = "hidden";
                     sunkMessage = "HMS Duncan has been destroyed";
-                    await JSRuntime.InvokeVoidAsync("Modal", "red");
+                    await JSRuntime.InvokeVoidAsync("Modal", "1");
 
                 }
             }
@@ -389,18 +386,18 @@ using BlazorApp5.Shared;
                 ship3.RemoveAt(removeFromindividual);
                 if (!ship3.Any())
                 {
-                    active3 = "hidden";                    
+                    active3 = "hidden";
                     sunkMessage = "HMS Defender has been destroyed";
-                    await JSRuntime.InvokeVoidAsync("Modal", "red");
+                    await JSRuntime.InvokeVoidAsync("Modal", "1");
 
                 }
             }
 
             if (!ships.Any())
             {
-                
+
                 sunkMessage = "Congrats, Your waters are clear from enemy ships";
-                await JSRuntime.InvokeVoidAsync("VictoryModal", "green");
+                await JSRuntime.InvokeVoidAsync("Modal", "2");
 
             }
         }
